@@ -1,0 +1,4 @@
+{
+  "mongoDBURI": "mongodb+srv://taiga:taiga@cluster0.re6bu.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSECRET": "SUPERSECRETTOKEN"
+}
