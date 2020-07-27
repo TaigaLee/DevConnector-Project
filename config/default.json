@@ -1,4 +1,6 @@
 {
   "mongoDBURI": "mongodb+srv://taiga:taiga@cluster0.re6bu.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSECRET": "SUPERSECRETTOKEN"
+  "jwtSECRET": "SUPERSECRETTOKEN",
+  "githubClientId": "8718eef67eface0d1c7b",
+  "githubSecret": "38507b7ea91afba50b68f871a2ed8ba1f1f2582e"
 }
